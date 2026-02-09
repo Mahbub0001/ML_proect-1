@@ -218,8 +218,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-For questions or suggestions regarding this project, please open an issue in the repository.
-
+For questions, suggestions, or collaborations:
+- **Email**: [nibirbhuiyan18@gmail.com](nibirbhuiyan18@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mahbub-ul-alam-bhuiyan-289bb8294](linkedin.com/in/mahbub-ul-alam-bhuiyan-289bb8294)
+- **GitHub**: [https://github.com/Mahbub0001](https://github.com/Mahbub0001)
 ---
 
 **Note**: This model is trained on Bangladeshi student data and may not generalize well to other educational systems or populations. Use with appropriate caution and validation.
